@@ -1,5 +1,5 @@
-Companion code to CoRL 2021 submission:  
-Anonymous Authors. **"Learning Multimodal Rewards from Rankings"**. *5th Conference on Robot Learning (CoRL)*, London, UK, Nov. 2021.
+Companion code to CoRL 2021 paper:  
+Vivek Myers, Erdem Bıyık, Nima Anari, Dorsa Sadigh. **"Learning Multimodal Rewards from Rankings"**. *5th Conference on Robot Learning (CoRL)*, London, UK, Nov. 2021.
 
 This code actively learns multimodal reward functions from rankings in various tasks with respect to an information gain acquisition function and compares it to random querying.
 
